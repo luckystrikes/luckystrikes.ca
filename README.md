@@ -1,4 +1,4 @@
 luckystrikes.ca
 ===============
 
-My website
+The luckystrikes.ca website
